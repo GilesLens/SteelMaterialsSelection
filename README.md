@@ -5,4 +5,6 @@ This project was done for PT. Komatsu Indonesia in order to help accelerate the 
   1. Create a database of new substitute steel materials 
   2. Create a simple program that can give substitute steel materials from the database to replace their input steel with specific properties
 
-Program used in this case is a K-Nearest Neighbour Machine Learning algorithm due to the size of the database (as it is quite small, ~100 entries) and the nature of the task. 
+Program used in this case is a K-Nearest Neighbour Machine Learning algorithm due to the size of the database (as it is quite small, ~100 entries) and the nature of the task.
+
+Code packages: Scikit-learn (for algorithm), Pandas (data manipulation and visualization), Python (codebase).
